@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm rovtjlwbert21139
 
-<!--
-**rovtjlwbert21139/rovtjlwbert21139** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎬 🎤 🛹 🎱 Addicted to algorithms 🎬 🎤 🛹 🎱
 
-Here are some ideas to get you started:
+## About Me
+🎽 🎷 🛹 Excited about web development 🎽 🎷 🛹
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🛹 🥊 🚵 🚀 A lover of augmented reality 🛹 🥊 🚵 🚀
+
+### Fun Facts
+🛼 🏊 🎨 🥋 Curious about automation 🛼 🏊 🎨 🥋
+
+---
+🛶 🥋 🎰 🚴 🎬 Thanks for visiting my profile! 🎰 🎮 🥁 🎬 🎯
